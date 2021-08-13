@@ -1,0 +1,111 @@
+\documentclass[journal, compsoc, 10pt]{IEEEtran}
+
+\usepackage{graphicx}   								% \includegraphics[scale=]{}
+\usepackage{subfigure}									% \subfigure[]{}
+\usepackage{amsmath}									% \begin{split}			
+\usepackage{amsthm}										% \begin{proof}
+\usepackage{enumerate} 									% \begin{enumerate}
+\usepackage[para,online,flushleft]{threeparttable} 		% \begin{threeparttable}
+\usepackage{multirow}									% \multirow
+
+\usepackage{algorithm}
+%\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{gensymb}
+\usepackage{graphics}
+\usepackage{epsfig}
+\usepackage{ragged2e}
+\usepackage{url}
+\usepackage{color}
+\usepackage[OT1]{fontenc}
+\usepackage{caption}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+
+\begin{document}
+
+\title{DEAL: Distributed Energy-Aware Load Balancing Routing Algorithm for LEO Satellite Network}
+\author{Chi-Yuan Huang and Guey-Yun Chang}
+
+\IEEEcompsoctitleabstractindextext{%
+\input{abstractEN}
+
+\begin{IEEEkeywords}
+Satellites, Routing, Low earth orbit satellites, Orbits, Batteries.
+\end{IEEEkeywords}}
+
+\maketitle
+
+%*******************************************************************************************************************
+%*      Section 1                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Introduction%%%%%%%%%%%%%%
+\input{Introduction}
+
+%*******************************************************************************************************************
+%*      Section 2                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Related Work%%%%%%%%%%%%%%
+\input{Related Work}
+
+%*******************************************************************************************************************
+%*      Section 3                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Preliminary%%%%%%%%%%%%%%
+\input{System Model}
+
+%*******************************************************************************************************************
+%*      Section 4                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Methodology%%%%%%%%%%%%%%
+\input{Methodology}
+
+%*******************************************************************************************************************
+%*      Section 5                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Performance Analysis%%%%%%%%%%%%%%
+%\input{Performance Analysis}
+
+%*******************************************************************************************************************
+%*      Section 6                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Simulation%%%%%%%%%%%%%%
+\input{Performance Evaluation}
+
+%*******************************************************************************************************************
+%*      Section 7                                                                                                     
+%*******************************************************************************************************************
+%%%%%%%%%%%%%%Conclusion%%%%%%%%%%%%%%
+\input{Conclusion}
+
+%---------- Input your reference here ---------
+\bibliographystyle{IEEEtran}
+\bibliography{Bibliography}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%----------- Input your appendix here  -----------
+%%%%%%%%%%%%%%Appendix%%%%%%%%%%%%%%
+%\input{Appendix}
+
+%----------- Input your Figure chapter here  -----------
+%\input{EndFigTab} 
+%chapter cite  == \include
+%\include{EndFigTab}
+{
+\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{pic/HCY.jpg}}]
+{Chi-Yuan Huang}
+received the M.S. degree in the Department of Computer Science and Information Engineering form National Central University, Taiwan, in 2021. His research interests include satellite network systems and wireless networks.
+\end{IEEEbiography}
+
+\vspace{-35pt}
+
+\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{pic/GYC.jpg}}]{Guey-Yun Chang}
+received the B.S. and M.S. degrees in Computer Science and Information Engineering from National Taiwan Normal University, Taiwan, in 1995 and 1998, respectively, and the Ph.D. degree in Computer Science and Information Engineering from National Taiwan University, Taiwan, in 2005. Currently, she is a  professor at the Department of Computer Science and Information Engineering, National Central University, Taiwan. Her research interests include cognitive radio networks and wireless sensor networks.
+\end{IEEEbiography}
+
+
+\end{document}

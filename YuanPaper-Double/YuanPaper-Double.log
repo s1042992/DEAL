@@ -1,0 +1,567 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6) (preloaded format=xelatex 2021.7.20)  13 AUG 2021 10:58
+entering extended mode
+**./YuanPaper-Double.tex
+(YuanPaper-Double.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count178
+\@IEEEtrantmpcountB=\count179
+\@IEEEtrantmpcountC=\count180
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for TU+ppl on input line 50
+3.
+LaTeX Font Info:    No file TUppl.fd. on input line 503.
+
+LaTeX Font Warning: Font shape `TU/ppl/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 503.
+
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+
+LaTeX Font Warning: Font shape `TU/ppl/bx/n' undefined
+(Font)              using `TU/ppl/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ppl/m/it' undefined
+(Font)              using `TU/ppl/m/n' instead on input line 1090.
+
+
+LaTeX Font Warning: Font shape `TU/ppl/bx/it' undefined
+(Font)              using `TU/ppl/bx/n' instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@IEEEsubequation=\count185
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count186
+\c@table=\count187
+\@IEEEeqnnumcols=\count188
+\@IEEEeqncolcnt=\count189
+\@IEEEsubeqnnumrollback=\count190
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count191
+\@IEEEquantizeboxA=\box50
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count192
+\@IEEEtranrubishbin=\box51
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.st
+y
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen164
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen165
+\subfiglabelskip=\skip53
+\c@subfigure=\count193
+\c@lofdepth=\count194
+\c@subtable=\count195
+\c@lotdepth=\count196
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cf
+g)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen166
+))
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen167
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen168
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks19
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks20
+\eqnshift@=\dimen169
+\alignsep@=\dimen170
+\tagshift@=\dimen171
+\tagwidth@=\dimen172
+\totwidth@=\dimen173
+\lineht@=\dimen174
+\@envbody=\toks21
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip59
+\thm@postskip=\skip60
+\thm@headsep=\skip61
+\dth@everypar=\toks28
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks29
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepa
+rttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box54
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count275
+\multirow@dima=\skip63
+\bigstrutjot=\dimen175
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.s
+ty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks30
+\float@box=\box55
+\@float@everytoks=\toks31
+\@floatcapt=\box56
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks32
+\c@algorithm=\count277
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudo
+code.sty
+Package: algpseudocode 
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithm
+icx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count278
+\c@ALG@rem=\count279
+\c@ALG@nested=\count280
+\ALG@tlm=\skip64
+\ALG@thistlm=\skip65
+\c@ALG@Lnr=\count281
+\c@ALG@blocknr=\count282
+\c@ALG@storecount=\count283
+\c@ALG@tmpcounter=\count284
+\ALG@tmplength=\skip66
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen176
+\epsfysize=\dimen177
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+) (C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+) (C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+12.
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+))
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \sffamily \footnotesize #1}\\{\normalfont \sffamily \footnotesize #2}\par
+ \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEf
+igurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \sffamily \footnotes
+ize {#1.}\nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbo
+x {\normalfont \sffamily \footnotesize {#1.}\nobreakspace }\parbox [t]{\hsize }
+{\normalfont \sffamily \footnotesize \noindent \unhbox \@tempboxa #2}\else \hbo
+x to\hsize {\normalfont \sffamily \footnotesize \box \@tempboxa \hfil }\fi \fi 
+ on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count285
+\c@continuedfloat=\count286
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+\c@theorem=\count287
+\c@lemma=\count288
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xe
+tex.def
+File: l3backend-xetex.def 2021-05-07 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count289
+\l__color_backend_stack_int=\count290
+\g__color_backend_stack_int=\count291
+\g__graphics_track_int=\count292
+\l__pdf_internal_box=\box57
+\g__pdf_backend_object_int=\count293
+\g__pdf_backend_annotation_int=\count294
+\g__pdf_backend_link_int=\count295
+) (YuanPaper-Double.aux
+
+LaTeX Warning: Label `eq:ENERGYCONSUMPTION' multiply defined.
+
+)
+\openout1 = `YuanPaper-Double.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+8.
+ (C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+-- Lines per column: 61 (exact).
+LaTeX Info: Redefining \celsius on input line 28.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 28.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 28.
+Package gensymb Info: Using \Omega for \ohm on input line 28.
+
+Package gensymb Warning: Not defining \micro.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+** ATTENTION: \IEEEcompsoctitleabstractindextext is deprecated (line 33). Use \
+IEEEtitleabstractindextext instead.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
+0.
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+(abstractEN.tex)
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 40
+.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 40.
+
+
+(C:\Users\Albert\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+(abstractEN.tex) (abstractEN.tex) (Introduction.tex
+Missing character: There is no ’ in font pplr7t!
+Missing character: There is no ’ in font pplr7t!
+Missing character: There is no – in font pplr7t!
+ [1
+
+
+]) (Related Work.tex
+Missing character: There is no ’ in font pplr7t!
+
+[2]) (System Model.tex
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 5.
+File: fig/Topology.png Graphic file (type bmp)
+<fig/Topology.png>
+
+Overfull \hbox (6.02057pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
+[3]
+File: fig/TrafficDensity.png Graphic file (type bmp)
+<fig/TrafficDensity.png>
+
+Overfull \hbox (6.0259pt too wide) in paragraph at lines 25--26
+ [][] 
+ []
+
+) (Methodology.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 54.
+ [4]
+Missing character: There is no ’ in font pplr7t!
+File: fig/ellipse.png Graphic file (type bmp)
+<fig/ellipse.png>
+ [5]
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 181.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (Performance Evaluation.tex
+Missing character: There is no ° in font pplr7t!
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig/simulation/queue/Queue-Delivery.png Graphic file (type bmp)
+<fig/simulation/queue/Queue-Delivery.png>
+File: fig/simulation/queue/Queue-Occupying.png Graphic file (type bmp)
+<fig/simulation/queue/Queue-Occupying.png>
+[6]
+File: fig/simulation/droppedpacket/DroppedPacketsNumber.png Graphic file (type 
+bmp)
+<fig/simulation/droppedpacket/DroppedPacketsNumber.png>
+File: fig/simulation/droppedpacket/DroppedPacketsCDF.png Graphic file (type bmp
+)
+<fig/simulation/droppedpacket/DroppedPacketsCDF.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--66
+[][]
+ []
+
+File: fig/simulation/energy/SPF-ENERGY.png Graphic file (type bmp)
+<fig/simulation/energy/SPF-ENERGY.png>
+File: fig/simulation/energy/DEAL-ENERGY.png Graphic file (type bmp)
+<fig/simulation/energy/DEAL-ENERGY.png>
+File: fig/simulation/energy/CDF-ENERGY.png Graphic file (type bmp)
+<fig/simulation/energy/CDF-ENERGY.png>
+[7]
+File: fig/simulation/linkUtilization/LinkUtilization.png Graphic file (type bmp
+)
+<fig/simulation/linkUtilization/LinkUtilization.png>
+File: fig/simulation/linkUtilization/LinkUtilizationCDF.png Graphic file (type 
+bmp)
+<fig/simulation/linkUtilization/LinkUtilizationCDF.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--111
+[][]
+ []
+
+File: fig/simulation/delay/ENDTOENDDELAY.png Graphic file (type bmp)
+<fig/simulation/delay/ENDTOENDDELAY.png>
+[8]
+File: fig/simulation/queue/Occupying ratio of each satellite.png Graphic file (
+type bmp)
+<fig/simulation/queue/Occupying ratio of each satellite.png>
+File: fig/simulation/queue/CDF of Occupying ratio.png Graphic file (type bmp)
+<fig/simulation/queue/CDF of Occupying ratio.png>
+) (Conclusion.tex) (YuanPaper-Double.bbl
+Missing character: There is no – in font pplr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+[]\OT1/ppl/m/n/8.03 Cisco, ``Cisco space router,'' $http : / / www . cisco . co
+m / web /
+ []
+
+[9]
+Missing character: There is no ’ in font pplr7t!
+
+Underfull \hbox (badness 1424) in paragraph at lines 162--164
+[]\OT1/ppl/m/n/8.03 TELESAT, ``Real-time la-tency: Re-think-ing re-mote net-wor
+ks,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+\OT1/ppl/m/n/8.03 https : / / www . telesat . com / wp-[]content / uploads / 20
+20 / 07 /
+ []
+
+)
+File: pic/HCY.jpg Graphic file (type bmp)
+<pic/HCY.jpg>
+File: pic/HCY.jpg Graphic file (type bmp)
+<pic/HCY.jpg>
+File: pic/GYC.jpg Graphic file (type bmp)
+<pic/GYC.jpg>
+File: pic/GYC.jpg Graphic file (type bmp)
+<pic/GYC.jpg>
+ [10] (YuanPaper-Double.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 98 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 5620 strings out of 411271
+ 93914 string characters out of 2828599
+ 413902 words of memory out of 3000000
+ 25936 multiletter control sequences out of 15000+600000
+ 436507 words of font info for 130 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,14n,66p,2325b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on YuanPaper-Double.pdf (10 pages).

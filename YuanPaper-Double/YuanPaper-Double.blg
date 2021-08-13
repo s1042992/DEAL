@@ -1,0 +1,107 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: YuanPaper-Double.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: Bibliography.bib
+Warning--I'm ignoring CISCO's extra "note" field
+--line 25 of file Bibliography.bib
+Warning--I'm ignoring LAUNCH's extra "note" field
+--line 49 of file Bibliography.bib
+Warning--I'm ignoring TELESAT's extra "note" field
+--line 77 of file Bibliography.bib
+Warning--string name "narayanan" is undefined
+--line 150 of file Bibliography.bib
+I was expecting a `,' or a `}'---line 150 of file Bibliography.bib
+ :  author=narayanan 
+ :                   Natarajan, Anindo Bagchi, William E. Stephens},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in DOOR
+Too many commas in name 1 of "Song Jie, Wei Hao Cheng, Shuai, Li" for entry INCOME
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Liu Xin Meng , He Shan Bao, Wu Yang Pu, Li Zhen Dong, Jiang Zhu Qing, Liu Chong Hua, Gu Ya Nan" for entry LCD1
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Liu Xin Meng , He Shan Bao, Wu Yang Pu, Li Zhen Dong, Jiang Zhu Qing, Liu Chong Hua, Gu Ya Nan" for entry LCD1
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Liu Xin Meng , He Shan Bao, Wu Yang Pu, Li Zhen Dong, Jiang Zhu Qing, Liu Chong Hua, Gu Ya Nan" for entry LCD1
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Liu Xin Meng , He Shan Bao, Wu Yang Pu, Li Zhen Dong, Jiang Zhu Qing, Liu Chong Hua, Gu Ya Nan" for entry LCD1
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua , Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry LCD2
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua , Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry LCD2
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua , Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry LCD2
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua , Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry LCD2
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Wei Song Jie, Cheng Hao, Shi Zhao Wei, Zhao Ru Dong" for entry LCD3
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua, Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry CHARACTERISTICS
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua, Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry CHARACTERISTICS
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua, Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry CHARACTERISTICS
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Qu Hua, Zhao Ji, Hong Yue, Peng Cheng, Liu Xi, Wang Meng, Wang Kun" for entry CHARACTERISTICS
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Sun Li Juan, Bai Qian, Zhou Jian, Wang Juan, Han Chong, Xiao Fu" for entry LOWTRACK
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Sun Li Juan, Bai Qian, Zhou Jian, Wang Juan, Han Chong, Xiao Fu" for entry LOWTRACK
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Sun Li Juan, Bai Qian, Zhou Jian, Wang Juan, Han Chong, Xiao Fu" for entry LOWTRACK
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty journal in TLE
+
+Done.
+You've used 27 entries,
+            4087 wiz_defined-function locations,
+            991 strings with 12687 characters,
+and the built_in function-call counts, 18428 in all, are:
+= -- 1422
+> -- 418
+< -- 144
++ -- 229
+- -- 72
+* -- 818
+:= -- 2686
+add.period$ -- 60
+call.type$ -- 27
+change.case$ -- 30
+chr.to.int$ -- 345
+cite$ -- 29
+duplicate$ -- 1358
+empty$ -- 1577
+format.name$ -- 87
+if$ -- 4315
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 250
+newline$ -- 106
+num.names$ -- 26
+pop$ -- 637
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1433
+stack$ -- 0
+substring$ -- 853
+swap$ -- 1047
+text.length$ -- 29
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 27
+warning$ -- 2
+while$ -- 81
+width$ -- 29
+write$ -- 256
+(There were 18 error messages)
