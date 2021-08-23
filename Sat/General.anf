@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/Sat/results/General-*.vec"/>
+    <inputs name="/Sat/results/General-*.sca"/>
+  </inputs>
+  <datasets>
+    <datasets name="totalnetwork">
+      <items xsi:type="scave:Add" filterPattern="file(/Sat/results/General-#0.sca) AND attr:configname(General) AND attr:runnumber(0) AND module(SatNet.sat5_1) AND name(delay:mean)"/>
+      <items xsi:type="scave:Add" filterPattern="average" type="STATISTICS"/>
+      <items xsi:type="scave:Compute" operation="mean"/>
+      <items xsi:type="scave:Add" filterPattern="name(delay:stats)" type="HISTOGRAM"/>
+    </datasets>
+  </datasets>
+  <chartSheets/>
+</scave:Analysis>

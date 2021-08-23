@@ -1,0 +1,2703 @@
+file 13311539 1628439460                                        
+version 2
+run General-0-20210809-00:17:02-3732
+attr configname General
+attr datetime 20210809-00:17:02
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network SatNet
+attr processid 3732
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 SatNet.sat1_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 1 SatNet.sat1_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 2 SatNet.sat1_1.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 3 SatNet.sat1_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 4 SatNet.sat1_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 5 SatNet.sat1_2.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 6 SatNet.sat1_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 7 SatNet.sat1_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 8 SatNet.sat1_3.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 9 SatNet.sat1_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 10 SatNet.sat1_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 11 SatNet.sat1_4.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 12 SatNet.sat1_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 13 SatNet.sat1_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 14 SatNet.sat1_5.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 15 SatNet.sat1_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 16 SatNet.sat1_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 17 SatNet.sat1_6.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 18 SatNet.sat1_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 19 SatNet.sat1_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 20 SatNet.sat1_7.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 21 SatNet.sat1_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 22 SatNet.sat1_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 23 SatNet.sat1_8.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 24 SatNet.sat1_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 25 SatNet.sat1_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 26 SatNet.sat1_9.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 27 SatNet.sat1_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 28 SatNet.sat1_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 29 SatNet.sat1_10.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 30 SatNet.sat1_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 31 SatNet.sat1_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 32 SatNet.sat1_11.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 33 SatNet.sat2_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 34 SatNet.sat2_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 35 SatNet.sat2_1.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 36 SatNet.sat2_1.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 37 SatNet.sat2_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 38 SatNet.sat2_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 39 SatNet.sat2_2.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 40 SatNet.sat2_2.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 41 SatNet.sat2_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 42 SatNet.sat2_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 43 SatNet.sat2_3.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 44 SatNet.sat2_3.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 45 SatNet.sat2_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 46 SatNet.sat2_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 47 SatNet.sat2_4.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 48 SatNet.sat2_4.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 49 SatNet.sat2_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 50 SatNet.sat2_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 51 SatNet.sat2_5.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 52 SatNet.sat2_5.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 53 SatNet.sat2_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 54 SatNet.sat2_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 55 SatNet.sat2_6.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 56 SatNet.sat2_6.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 57 SatNet.sat2_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 58 SatNet.sat2_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 59 SatNet.sat2_7.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 60 SatNet.sat2_7.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 61 SatNet.sat2_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 62 SatNet.sat2_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 63 SatNet.sat2_8.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 64 SatNet.sat2_8.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 65 SatNet.sat2_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 66 SatNet.sat2_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 67 SatNet.sat2_9.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 68 SatNet.sat2_9.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 69 SatNet.sat2_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 70 SatNet.sat2_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 71 SatNet.sat2_10.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 72 SatNet.sat2_10.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 73 SatNet.sat2_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 74 SatNet.sat2_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 75 SatNet.sat2_11.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 76 SatNet.sat2_11.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 77 SatNet.sat3_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 78 SatNet.sat3_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 79 SatNet.sat3_1.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 80 SatNet.sat3_1.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 81 SatNet.sat3_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 82 SatNet.sat3_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 83 SatNet.sat3_2.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 84 SatNet.sat3_2.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 85 SatNet.sat3_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 86 SatNet.sat3_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 87 SatNet.sat3_3.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 88 SatNet.sat3_3.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 89 SatNet.sat3_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 90 SatNet.sat3_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 91 SatNet.sat3_4.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 92 SatNet.sat3_4.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 93 SatNet.sat3_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 94 SatNet.sat3_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 95 SatNet.sat3_5.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 96 SatNet.sat3_5.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 97 SatNet.sat3_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 98 SatNet.sat3_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 99 SatNet.sat3_6.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 100 SatNet.sat3_6.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 101 SatNet.sat3_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 102 SatNet.sat3_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 103 SatNet.sat3_7.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 104 SatNet.sat3_7.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 105 SatNet.sat3_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 106 SatNet.sat3_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 107 SatNet.sat3_8.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 108 SatNet.sat3_8.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 109 SatNet.sat3_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 110 SatNet.sat3_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 111 SatNet.sat3_9.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 112 SatNet.sat3_9.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 113 SatNet.sat3_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 114 SatNet.sat3_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 115 SatNet.sat3_10.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 116 SatNet.sat3_10.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 117 SatNet.sat3_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 118 SatNet.sat3_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 119 SatNet.sat3_11.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 120 SatNet.sat3_11.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 121 SatNet.sat4_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 122 SatNet.sat4_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 123 SatNet.sat4_1.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 124 SatNet.sat4_1.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 125 SatNet.sat4_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 126 SatNet.sat4_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 127 SatNet.sat4_2.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 128 SatNet.sat4_2.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 129 SatNet.sat4_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 130 SatNet.sat4_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 131 SatNet.sat4_3.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 132 SatNet.sat4_3.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 133 SatNet.sat4_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 134 SatNet.sat4_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 135 SatNet.sat4_4.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 136 SatNet.sat4_4.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 137 SatNet.sat4_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 138 SatNet.sat4_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 139 SatNet.sat4_5.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 140 SatNet.sat4_5.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 141 SatNet.sat4_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 142 SatNet.sat4_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 143 SatNet.sat4_6.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 144 SatNet.sat4_6.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 145 SatNet.sat4_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 146 SatNet.sat4_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 147 SatNet.sat4_7.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 148 SatNet.sat4_7.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 149 SatNet.sat4_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 150 SatNet.sat4_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 151 SatNet.sat4_8.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 152 SatNet.sat4_8.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 153 SatNet.sat4_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 154 SatNet.sat4_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 155 SatNet.sat4_9.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 156 SatNet.sat4_9.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 157 SatNet.sat4_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 158 SatNet.sat4_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 159 SatNet.sat4_10.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 160 SatNet.sat4_10.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 161 SatNet.sat4_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 162 SatNet.sat4_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 163 SatNet.sat4_11.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 164 SatNet.sat4_11.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 165 SatNet.sat5_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 166 SatNet.sat5_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 167 SatNet.sat5_1.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 168 SatNet.sat5_1.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 169 SatNet.sat5_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 170 SatNet.sat5_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 171 SatNet.sat5_2.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 172 SatNet.sat5_2.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 173 SatNet.sat5_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 174 SatNet.sat5_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 175 SatNet.sat5_3.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 176 SatNet.sat5_3.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 177 SatNet.sat5_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 178 SatNet.sat5_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 179 SatNet.sat5_4.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 180 SatNet.sat5_4.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 181 SatNet.sat5_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 182 SatNet.sat5_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 183 SatNet.sat5_5.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 184 SatNet.sat5_5.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 185 SatNet.sat5_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 186 SatNet.sat5_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 187 SatNet.sat5_6.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 188 SatNet.sat5_6.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 189 SatNet.sat5_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 190 SatNet.sat5_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 191 SatNet.sat5_7.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 192 SatNet.sat5_7.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 193 SatNet.sat5_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 194 SatNet.sat5_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 195 SatNet.sat5_8.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 196 SatNet.sat5_8.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 197 SatNet.sat5_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 198 SatNet.sat5_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 199 SatNet.sat5_9.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 200 SatNet.sat5_9.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 201 SatNet.sat5_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 202 SatNet.sat5_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 203 SatNet.sat5_10.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 204 SatNet.sat5_10.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 205 SatNet.sat5_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 206 SatNet.sat5_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 207 SatNet.sat5_11.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 208 SatNet.sat5_11.right$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 209 SatNet.sat6_1.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 210 SatNet.sat6_1.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 211 SatNet.sat6_1.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 212 SatNet.sat6_2.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 213 SatNet.sat6_2.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 214 SatNet.sat6_2.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 215 SatNet.sat6_3.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 216 SatNet.sat6_3.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 217 SatNet.sat6_3.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 218 SatNet.sat6_4.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 219 SatNet.sat6_4.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 220 SatNet.sat6_4.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 221 SatNet.sat6_5.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 222 SatNet.sat6_5.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 223 SatNet.sat6_5.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 224 SatNet.sat6_6.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 225 SatNet.sat6_6.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 226 SatNet.sat6_6.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 227 SatNet.sat6_7.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 228 SatNet.sat6_7.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 229 SatNet.sat6_7.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 230 SatNet.sat6_8.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 231 SatNet.sat6_8.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 232 SatNet.sat6_8.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 233 SatNet.sat6_9.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 234 SatNet.sat6_9.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 235 SatNet.sat6_9.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 236 SatNet.sat6_10.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 237 SatNet.sat6_10.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 238 SatNet.sat6_10.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 239 SatNet.sat6_11.upper$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 240 SatNet.sat6_11.lower$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 241 SatNet.sat6_11.left$o.channel busy:vector ETV
+attr interpolationmode sample-hold
+attr source channelBusy
+vector 242 SatNet.sat4_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 243 SatNet.sat4_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 244 SatNet.sat2_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 245 SatNet.sat2_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 246 SatNet.sat2_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 247 SatNet.sat2_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 248 SatNet.sat5_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 249 SatNet.sat5_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 250 SatNet.sat6_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 251 SatNet.sat6_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 252 SatNet.sat3_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 253 SatNet.sat3_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 254 SatNet.sat4_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 255 SatNet.sat4_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 256 SatNet.sat2_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 257 SatNet.sat2_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 258 SatNet.sat4_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 259 SatNet.sat4_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 260 SatNet.sat5_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 261 SatNet.sat5_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 262 SatNet.sat6_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 263 SatNet.sat6_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 264 SatNet.sat4_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 265 SatNet.sat4_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 266 SatNet.sat4_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 267 SatNet.sat4_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 268 SatNet.sat5_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 269 SatNet.sat5_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 270 SatNet.sat2_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 271 SatNet.sat2_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 272 SatNet.sat1_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 273 SatNet.sat1_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 274 SatNet.sat5_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 275 SatNet.sat5_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 276 SatNet.sat3_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 277 SatNet.sat3_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 278 SatNet.sat5_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 279 SatNet.sat5_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 280 SatNet.sat2_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 281 SatNet.sat2_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 282 SatNet.sat2_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 283 SatNet.sat3_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 284 SatNet.sat3_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 285 SatNet.sat1_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 286 SatNet.sat1_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 287 SatNet.sat6_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 288 SatNet.sat6_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 289 SatNet.sat5_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 290 SatNet.sat5_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 291 SatNet.sat6_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 292 SatNet.sat6_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 293 SatNet.sat2_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 294 SatNet.sat2_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 295 SatNet.sat4_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 296 SatNet.sat4_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 297 SatNet.sat5_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 298 SatNet.sat5_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 299 SatNet.sat3_6 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 300 SatNet.sat3_6 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 301 SatNet.sat4_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 302 SatNet.sat4_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 303 SatNet.sat3_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 304 SatNet.sat3_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 305 SatNet.sat3_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 306 SatNet.sat3_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 307 SatNet.sat3_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 308 SatNet.sat3_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 309 SatNet.sat4_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 310 SatNet.sat4_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 311 SatNet.sat1_7 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 312 SatNet.sat1_7 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 313 SatNet.sat2_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 314 SatNet.sat2_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 315 SatNet.sat4_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 316 SatNet.sat4_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 317 SatNet.sat4_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 318 SatNet.sat2_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 319 SatNet.sat2_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 320 SatNet.sat1_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 321 SatNet.sat1_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 322 SatNet.sat2_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 323 SatNet.sat2_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 324 SatNet.sat5_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 325 SatNet.sat5_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 326 SatNet.sat2_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 327 SatNet.sat2_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 328 SatNet.sat5_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 329 SatNet.sat5_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 330 SatNet.sat5_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 331 SatNet.sat1_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 332 SatNet.sat1_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 333 SatNet.sat1_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 334 SatNet.sat1_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 335 SatNet.sat1_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 336 SatNet.sat1_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 337 SatNet.sat1_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 338 SatNet.sat6_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 339 SatNet.sat6_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 340 SatNet.sat4_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 341 SatNet.sat4_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 342 SatNet.sat5_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 343 SatNet.sat5_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 344 SatNet.sat1_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 345 SatNet.sat1_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 346 SatNet.sat1_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 347 SatNet.sat1_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 348 SatNet.sat1_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 349 SatNet.sat1_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 350 SatNet.sat1_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 351 SatNet.sat1_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 352 SatNet.sat4_4 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 353 SatNet.sat4_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 354 SatNet.sat5_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 355 SatNet.sat5_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 356 SatNet.sat2_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 357 SatNet.sat2_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 358 SatNet.sat2_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 359 SatNet.sat6_1 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 360 SatNet.sat6_1 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 361 SatNet.sat6_8 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 362 SatNet.sat6_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 363 SatNet.sat6_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 364 SatNet.sat6_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 365 SatNet.sat4_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 366 SatNet.sat4_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 367 SatNet.sat1_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 368 SatNet.sat3_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 369 SatNet.sat3_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 370 SatNet.sat6_11 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 371 SatNet.sat6_11 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 372 SatNet.sat3_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 373 SatNet.sat3_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 374 SatNet.sat3_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 375 SatNet.sat3_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 376 SatNet.sat3_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 377 SatNet.sat1_5 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 378 SatNet.sat1_5 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 379 SatNet.sat2_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 380 SatNet.sat2_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 381 SatNet.sat1_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 382 SatNet.sat1_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 383 SatNet.sat2_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 384 SatNet.sat2_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 385 SatNet.sat2_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 386 SatNet.sat5_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 387 SatNet.sat5_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 388 SatNet.sat5_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 389 SatNet.sat3_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 390 SatNet.sat3_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 391 SatNet.sat6_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 392 SatNet.sat6_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 393 SatNet.sat6_2 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 394 SatNet.sat6_2 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 395 SatNet.sat1_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 396 SatNet.sat1_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 397 SatNet.sat1_4 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 398 SatNet.sat2_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 399 SatNet.sat2_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 400 SatNet.sat2_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 401 SatNet.sat5_10 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 402 SatNet.sat5_10 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 403 SatNet.sat3_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 404 SatNet.sat3_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 405 SatNet.sat6_9 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 406 SatNet.sat6_9 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 407 SatNet.sat2_3 occupy:vector ETV
+attr interpolationmode none
+attr source occupy
+attr title "Empty-Full Ratio of Queue, vector"
+vector 408 SatNet.sat2_3 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 409 SatNet.sat6_8 batteryEnergy:vector ETV
+attr checkSignals false
+attr interpolationmode none
+attr source energy
+attr title "Battery energy, vector"
+vector 410 SatNet.sat5_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 411 SatNet.sat5_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 412 SatNet.sat5_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 413 SatNet.sat3_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 414 SatNet.sat3_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 415 SatNet.sat3_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 416 SatNet.sat4_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 417 SatNet.sat4_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 418 SatNet.sat4_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 419 SatNet.sat1_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 420 SatNet.sat1_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 421 SatNet.sat1_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 422 SatNet.sat3_8 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 423 SatNet.sat3_8 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 424 SatNet.sat3_8 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 425 SatNet.sat2_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 426 SatNet.sat2_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 427 SatNet.sat2_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 428 SatNet.sat4_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 429 SatNet.sat4_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 430 SatNet.sat4_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 431 SatNet.sat6_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 432 SatNet.sat6_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 433 SatNet.sat6_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 434 SatNet.sat5_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 435 SatNet.sat5_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 436 SatNet.sat5_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 437 SatNet.sat3_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 438 SatNet.sat3_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 439 SatNet.sat3_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 440 SatNet.sat6_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 441 SatNet.sat6_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 442 SatNet.sat6_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 443 SatNet.sat3_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 444 SatNet.sat3_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 445 SatNet.sat3_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 446 SatNet.sat3_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 447 SatNet.sat3_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 448 SatNet.sat3_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 449 SatNet.sat5_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 450 SatNet.sat5_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 451 SatNet.sat5_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 452 SatNet.sat6_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 453 SatNet.sat6_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 454 SatNet.sat6_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 455 SatNet.sat3_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 456 SatNet.sat3_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 457 SatNet.sat3_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 458 SatNet.sat6_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 459 SatNet.sat6_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 460 SatNet.sat6_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 461 SatNet.sat3_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 462 SatNet.sat3_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 463 SatNet.sat3_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 464 SatNet.sat4_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 465 SatNet.sat4_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 466 SatNet.sat4_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 467 SatNet.sat1_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 468 SatNet.sat1_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 469 SatNet.sat1_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 470 SatNet.sat4_4 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 471 SatNet.sat4_4 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 472 SatNet.sat4_4 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 473 SatNet.sat1_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 474 SatNet.sat1_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 475 SatNet.sat1_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 476 SatNet.sat1_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 477 SatNet.sat1_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 478 SatNet.sat1_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 479 SatNet.sat4_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 480 SatNet.sat4_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 481 SatNet.sat4_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 482 SatNet.sat4_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 483 SatNet.sat4_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 484 SatNet.sat4_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 485 SatNet.sat5_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 486 SatNet.sat5_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 487 SatNet.sat5_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 488 SatNet.sat5_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 489 SatNet.sat5_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 490 SatNet.sat5_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 491 SatNet.sat1_3 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 492 SatNet.sat1_3 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 493 SatNet.sat1_3 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 494 SatNet.sat5_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 495 SatNet.sat5_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 496 SatNet.sat5_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 497 SatNet.sat1_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 498 SatNet.sat1_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 499 SatNet.sat1_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 500 SatNet.sat3_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 501 SatNet.sat3_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 502 SatNet.sat3_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 503 SatNet.sat2_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 504 SatNet.sat2_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 505 SatNet.sat2_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 506 SatNet.sat3_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 507 SatNet.sat3_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 508 SatNet.sat3_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 509 SatNet.sat6_7 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 510 SatNet.sat6_7 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 511 SatNet.sat6_7 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 512 SatNet.sat4_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 513 SatNet.sat4_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 514 SatNet.sat4_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 515 SatNet.sat5_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 516 SatNet.sat5_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 517 SatNet.sat5_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 518 SatNet.sat2_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 519 SatNet.sat2_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 520 SatNet.sat2_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 521 SatNet.sat2_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 522 SatNet.sat2_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 523 SatNet.sat2_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 524 SatNet.sat6_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 525 SatNet.sat6_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 526 SatNet.sat6_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 527 SatNet.sat5_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 528 SatNet.sat5_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 529 SatNet.sat5_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 530 SatNet.sat4_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 531 SatNet.sat4_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 532 SatNet.sat4_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 533 SatNet.sat6_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 534 SatNet.sat6_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 535 SatNet.sat6_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 536 SatNet.sat1_6 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 537 SatNet.sat1_6 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 538 SatNet.sat1_6 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 539 SatNet.sat6_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 540 SatNet.sat6_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 541 SatNet.sat6_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 542 SatNet.sat4_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 543 SatNet.sat4_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 544 SatNet.sat4_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 545 SatNet.sat5_9 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 546 SatNet.sat5_9 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 547 SatNet.sat5_9 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 548 SatNet.sat1_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 549 SatNet.sat1_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 550 SatNet.sat1_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 551 SatNet.sat2_10 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 552 SatNet.sat2_10 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 553 SatNet.sat2_10 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 554 SatNet.sat4_11 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 555 SatNet.sat4_11 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 556 SatNet.sat4_11 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 557 SatNet.sat6_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 558 SatNet.sat6_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 559 SatNet.sat6_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 560 SatNet.sat6_5 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 561 SatNet.sat6_5 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 562 SatNet.sat6_5 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 563 SatNet.sat3_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 564 SatNet.sat3_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 565 SatNet.sat3_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 566 SatNet.sat2_2 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 567 SatNet.sat2_2 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 568 SatNet.sat2_2 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+vector 569 SatNet.sat2_1 hopCount:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "hop count, vector"
+vector 570 SatNet.sat2_1 delay:vector ETV
+attr interpolationmode none
+attr source delay
+attr title "delay, vector"
+vector 571 SatNet.sat2_1 queue:vector ETV
+attr interpolationmode none
+attr source queue
+attr title "Queuing time, vector"
+0	73721 13095 0 98174 0 1.987519133334 531 0 1 265 265
+1	86816 20074 0 98174 0 1.997858200001 787 0 1 393 393
+2	106890 3607 0 98174 0 1.944473066667 157 0 1 78 78
+3	110497 5648 0 98174 0 2.001774131396 235 0 1 117 117
+4	116145 32703 0 98174 0 2.001828413336 1279 0 1 639 639
+5	148848 3049 0 98174 0 1.999473066667 133 0 1 66 66
+6	151897 1273 0 98174 0 2.000335064729 51 0 1 25 25
+7	153170 46434 0 98174 0 2.003267480003 1807 0 1 903 903
+8	199604 4631 0 98174 0 1.930991992364 193 0 1 96 96
+9	204235 1823 0 98174 0 1.929373066667 79 0 1 39 39
+10	206058 18778 0 98174 0 1.999585140001 763 0 1 381 381
+11	224836 10785 0 98174 0 1.992173066667 449 0 1 224 224
+12	235621 29098 0 98174 0 2.004749370002 1087 0 1 543 543
+13	264719 22873 0 98174 0 2.001204065698 861 0 1 430 430
+14	287592 6375 0 98174 0 1.994491992364 243 0 1 121 121
+15	293967 24841 0 98174 0 2.003310303335 953 0 1 476 476
+16	318808 41988 0 98174 0 2.002643132365 1633 0 1 816 816
+17	360796 8467 0 98174 0 2.000273066667 349 0 1 174 174
+18	369263 16582 0 98174 0 2.002364236668 619 0 1 309 309
+19	385845 40209 0 98174 0 2.003589199032 1499 0 1 749 749
+20	426054 16428 0 98174 0 1.996519133334 617 0 1 308 308
+21	442482 18109 0 98174 0 2.001418170001 721 0 1 360 360
+22	460591 18908 0 98174 0 2.002734450003 725 0 1 362 362
+23	479499 19466 0 98174 0 1.999912133334 791 0 1 395 395
+24	498965 29877 0 98174 0 1.999979103334 1163 0 1 581 581
+25	528842 2197 0 98174 0 1.825173066667 89 0 1 44 44
+26	531039 12235 0 98174 0 1.991523192365 501 0 1 250 250
+27	543274 26859 0 98174 0 1.993718170001 1021 0 1 510 510
+28	570133 7497 0 98174 0 1.995473066667 291 0 1 145 145
+29	577630 5910 0 98174 0 1.981473066667 241 0 1 120 120
+30	583540 18113 0 98174 0 1.992279103334 681 0 1 340 340
+31	601653 13003 0 98174 0 1.996912133334 489 0 1 244 244
+32	614656 3767 0 98174 0 1.970719133334 151 0 1 75 75
+33	618423 20442 0 98174 0 2.000725170001 769 0 1 384 384
+34	638865 23382 0 98174 0 1.998677125698 877 0 1 438 438
+35	662247 11474 0 98174 0 1.989825170001 429 0 1 214 214
+36	673721 3312 0 98174 0 1.992525170001 127 0 1 63 63
+37	677033 9236 0 98174 0 1.999779103334 379 0 1 189 189
+38	686269 40099 0 98174 0 2.001922376669 1525 0 1 762 762
+39	726368 13143 0 98174 0 2.001522376669 509 0 1 254 254
+40	739511 4932 0 98174 0 1.968173066667 203 0 1 101 101
+41	744443 1492 0 98174 0 1.775179103334 57 0 1 28 28
+42	745935 42068 0 98174 0 1.998779103334 1569 0 1 784 784
+43	788003 14250 0 98174 0 2.000029028062 531 0 1 265 265
+44	802253 4935 0 98174 0 1.955896051395 187 0 1 93 93
+45	807188 13337 0 98174 0 2.003231059031 509 0 1 254 254
+46	820525 31630 0 98174 0 1.992973066667 1225 0 1 612 612
+47	852155 37589 0 98174 0 2.0033864057 1431 0 1 715 715
+48	889744 8224 0 98174 0 1.990279103334 331 0 1 165 165
+49	897968 31806 0 98174 0 2.001612133334 1203 0 1 601 601
+50	929774 43291 0 98174 0 1.994798029031 1645 0 1 822 822
+51	973065 9709 0 98174 0 1.990073066667 377 0 1 188 188
+52	982774 8886 0 98174 0 1.994591992364 357 0 1 178 178
+53	991660 24315 0 98174 0 2.000173066667 935 0 1 467 467
+54	1015975 67144 0 98174 0 1.997273066667 2557 0 1 1278 1278
+55	1083119 15334 0 98174 0 2.000183310002 599 0 1 299 299
+56	1098453 11523 0 98174 0 2.000579103334 461 0 1 230 230
+57	1109976 16366 0 98174 0 1.999237243335 641 0 1 320 320
+58	1126342 37003 0 98174 0 1.999373066667 1413 0 1 706 706
+59	1163345 8593 0 98174 0 2.001482346669 345 0 1 172 172
+60	1171938 24110 0 98174 0 2.001164236668 947 0 1 473 473
+61	1196048 41487 0 98174 0 2.003440339033 1563 0 1 781 781
+62	1237535 15482 0 98174 0 1.999165200001 581 0 1 290 290
+63	1253017 27524 0 98174 0 2.001543280002 1039 0 1 519 519
+64	1280541 22557 0 98174 0 2.000319133334 855 0 1 427 427
+65	1303098 59657 0 98174 0 2.002001272366 2281 0 1 1140 1140
+66	1362755 3941 0 98174 0 1.994673066667 159 0 1 79 79
+67	1366696 24368 0 98174 0 2.000141302366 935 0 1 467 467
+68	1391064 11943 0 98174 0 1.991829229032 473 0 1 236 236
+69	1403007 50276 0 98174 0 2.000382346669 1927 0 1 963 963
+70	1453283 10028 0 98174 0 1.996291992364 395 0 1 197 197
+71	1463311 11342 0 98174 0 1.994873066667 445 0 1 222 222
+72	1474653 9182 0 98174 0 2.003110303335 367 0 1 183 183
+73	1483835 29981 0 98174 0 2.001671236668 1141 0 1 570 570
+74	1513816 16921 0 98174 0 1.997731059031 641 0 1 320 320
+75	1530737 9841 0 98174 0 1.991973066667 375 0 1 187 187
+76	1540578 5938 0 98174 0 1.992873066667 231 0 1 115 115
+77	1546516 18225 0 98174 0 1.991664236668 685 0 1 342 342
+78	1564741 5144 0 98174 0 2.000270273335 193 0 1 96 96
+79	1569885 24560 0 98174 0 1.989519133334 921 0 1 460 460
+80	1594445 2381 0 98174 0 1.999219133334 93 0 1 46 46
+81	1596826 13758 0 98174 0 1.990718170001 523 0 1 261 261
+82	1610584 7979 0 98174 0 1.957185140001 303 0 1 151 151
+83	1618563 23144 0 98174 0 2.001616340002 877 0 1 438 438
+84	1641707 3773 0 98174 0 1.968479103334 147 0 1 73 73
+85	1645480 4629 0 98174 0 1.927079103334 181 0 1 90 90
+86	1650109 12889 0 98174 0 1.996685140001 497 0 1 248 248
+87	1662998 42770 0 98174 0 1.998473066667 1635 0 1 817 817
+88	1705768 7476 0 98174 0 1.991016954728 293 0 1 146 146
+89	1713244 5117 0 98174 0 1.989398029031 203 0 1 101 101
+90	1718361 29069 0 98174 0 1.998973066667 1149 0 1 574 574
+91	1747430 48799 0 98174 0 2.003080369033 1865 0 1 932 932
+92	1796229 9573 0 98174 0 1.990585140001 377 0 1 188 188
+93	1805802 10896 0 98174 0 1.987779103334 421 0 1 210 210
+94	1816698 46922 0 98174 0 2.000591992364 1795 0 1 897 897
+95	1863620 16165 0 98174 0 1.998418170001 627 0 1 313 313
+96	1879785 9162 0 98174 0 1.989198029031 355 0 1 177 177
+97	1888947 8665 0 98174 0 1.983385140001 323 0 1 161 161
+98	1897612 53368 0 98174 0 2.002031059031 1987 0 1 993 993
+99	1950980 26162 0 98174 0 1.988619133334 973 0 1 486 486
+100	1977142 8322 0 98174 0 1.998416340002 299 0 1 149 149
+101	1985464 7545 0 98174 0 1.997470273335 289 0 1 144 144
+102	1993009 34794 0 98174 0 2.002977125698 1273 0 1 636 636
+103	2027803 41764 0 98174 0 2.005880369033 1521 0 1 760 760
+104	2069567 19297 0 98174 0 1.997131206668 705 0 1 352 352
+105	2088864 26669 0 98174 0 1.997676162365 969 0 1 484 484
+106	2115533 12907 0 98174 0 1.997571236668 465 0 1 232 232
+107	2128440 45495 0 98174 0 2.001237243335 1641 0 1 820 820
+108	2173935 23228 0 98174 0 2.000625170001 841 0 1 420 420
+109	2197163 42391 0 98174 0 1.999037095698 1559 0 1 779 779
+110	2239554 5490 0 98174 0 1.984373066667 205 0 1 102 102
+111	2245044 41441 0 98174 0 1.999835265699 1529 0 1 764 764
+112	2286485 8141 0 98174 0 1.965473066667 309 0 1 154 154
+113	2294626 36057 0 98174 0 1.998216340002 1297 0 1 648 648
+114	2330683 1008 0 98174 0 1.985991992364 37 0 1 18 18
+115	2331691 21813 0 98174 0 1.993012133334 783 0 1 391 391
+116	2353504 5797 0 98174 0 1.963812133334 209 0 1 104 104
+117	2359301 34538 0 98174 0 1.996777273335 1299 0 1 649 649
+118	2393839 3102 0 98174 0 1.998273066667 121 0 1 60 60
+119	2396941 19592 0 98174 0 1.998637243335 751 0 1 375 375
+120	2416533 7058 0 98174 0 1.971971236668 273 0 1 136 136
+121	2423591 10838 0 98174 0 1.997385140001 401 0 1 200 200
+122	2434429 6212 0 98174 0 2.000364236668 227 0 1 113 113
+123	2440641 27029 0 98174 0 1.999964236668 1001 0 1 500 500
+124	2467670 3607 0 98174 0 1.969731206668 135 0 1 67 67
+125	2471277 7987 0 98174 0 1.980973066667 315 0 1 157 157
+126	2479264 8590 0 98174 0 1.989629229032 325 0 1 162 162
+127	2487854 25699 0 98174 0 2.001310303335 1007 0 1 503 503
+128	2513553 4640 0 98174 0 2.000471236668 179 0 1 89 89
+129	2518193 2063 0 98174 0 1.988973066667 81 0 1 40 40
+130	2520256 6322 0 98174 0 1.997173066667 239 0 1 119 119
+131	2526578 36017 0 98174 0 1.996379103334 1375 0 1 687 687
+132	2562595 8675 0 98174 0 1.991322991395 325 0 1 162 162
+133	2571270 7134 0 98174 0 1.984873066667 261 0 1 130 130
+134	2578404 15155 0 98174 0 1.997173066667 573 0 1 286 286
+135	2593559 37513 0 98174 0 2.002774332366 1371 0 1 685 685
+136	2631072 11089 0 98174 0 1.998791992364 407 0 1 203 203
+137	2642161 15174 0 98174 0 2.001155406669 551 0 1 275 275
+138	2657335 29167 0 98174 0 1.998791992364 1057 0 1 528 528
+139	2686502 19522 0 98174 0 1.998485140001 713 0 1 356 356
+140	2706024 8009 0 98174 0 1.989504065698 291 0 1 145 145
+141	2714033 11226 0 98174 0 1.996673066667 423 0 1 211 211
+142	2725259 36403 0 98174 0 2.000231059031 1345 0 1 672 672
+143	2761662 27418 0 98174 0 1.986924206668 1023 0 1 511 511
+144	2789080 8800 0 98174 0 1.998722376669 327 0 1 163 163
+145	2797880 6415 0 98174 0 1.984164236668 233 0 1 116 116
+146	2804295 19811 0 98174 0 1.994895235699 713 0 1 356 356
+147	2824106 48225 0 98174 0 2.005574332366 1735 0 1 867 867
+148	2872331 19725 0 98174 0 1.997437243335 709 0 1 354 354
+149	2892056 15413 0 98174 0 1.997073066667 557 0 1 278 278
+150	2907469 5360 0 98174 0 2.000931206668 193 0 1 96 96
+151	2912829 47779 0 98174 0 2.002071236668 1719 0 1 859 859
+152	2960608 27544 0 98174 0 1.999522376669 993 0 1 496 496
+153	2988152 30716 0 98174 0 1.993689199032 1115 0 1 557 557
+154	3018868 2280 0 98174 0 2.002370273335 83 0 1 41 41
+155	3021148 29150 0 98174 0 1.998731059031 1053 0 1 526 526
+156	3050298 6505 0 98174 0 1.976973066667 235 0 1 117 117
+157	3056803 25294 0 98174 0 1.997112133334 927 0 1 463 463
+158	3082097 4823 0 98174 0 2.003989199032 181 0 1 90 90
+159	3086920 23264 0 98174 0 1.993973066667 857 0 1 428 428
+160	3110184 5952 0 98174 0 1.976473066667 221 0 1 110 110
+161	3116136 22535 0 98174 0 1.995673066667 845 0 1 422 422
+162	3138671 11321 0 98174 0 1.999418170001 421 0 1 210 210
+163	3149992 15427 0 98174 0 1.998331206668 583 0 1 291 291
+164	3165419 6126 0 98174 0 2.005428265699 229 0 1 114 114
+165	3171545 12401 0 98174 0 1.970037243335 463 0 1 231 231
+166	3183946 13430 0 98174 0 1.996958200001 491 0 1 245 245
+167	3197376 15500 0 98174 0 1.997373066667 583 0 1 291 291
+168	3212876 1926 0 98174 0 1.963519133334 71 0 1 35 35
+169	3214802 7394 0 98174 0 1.994273066667 297 0 1 148 148
+170	3222196 22540 0 98174 0 2.000777273335 861 0 1 430 430
+171	3244736 10122 0 98174 0 1.997904266668 401 0 1 200 200
+172	3254858 1612 0 98174 0 1.948773066667 63 0 1 31 31
+173	3256470 1087 0 98174 0 1.954273066667 41 0 1 20 20
+174	3257557 15187 0 98174 0 2.002216340002 549 0 1 274 274
+175	3272744 21678 0 98174 0 1.996073066667 791 0 1 395 395
+176	3294422 1734 0 98174 0 1.980279103334 63 0 1 31 31
+177	3296156 7825 0 98174 0 1.980473066667 283 0 1 141 141
+178	3303981 18509 0 98174 0 1.999098029031 677 0 1 338 338
+179	3322490 27740 0 98174 0 1.997073066667 1013 0 1 506 506
+180	3350230 1595 0 98174 0 1.975198029031 59 0 1 29 29
+181	3351825 18729 0 98174 0 2.000467480003 685 0 1 342 342
+182	3370554 21512 0 98174 0 2.000716954728 781 0 1 390 390
+183	3392066 27482 0 98174 0 2.000849370002 1047 0 1 523 523
+184	3419548 2131 0 98174 0 1.958173066667 79 0 1 39 39
+185	3421679 15879 0 98174 0 1.999410303335 601 0 1 300 300
+186	3437558 34240 0 98174 0 2.002156021395 1261 0 1 630 630
+187	3471798 19744 0 98174 0 1.990918170001 769 0 1 384 384
+188	3491542 4092 0 98174 0 1.978779103334 149 0 1 74 74
+189	3495634 10499 0 98174 0 1.998264236668 385 0 1 192 192
+190	3506133 23084 0 98174 0 2.000819133334 837 0 1 418 418
+191	3529217 33156 0 98174 0 2.005268295699 1217 0 1 608 608
+192	3562373 3085 0 98174 0 1.991076310002 113 0 1 56 56
+193	3565458 26625 0 98174 0 1.997318170001 997 0 1 498 498
+194	3592083 2401 0 98174 0 1.989173066667 91 0 1 45 45
+195	3594484 30102 0 98174 0 2.001765200001 1131 0 1 565 565
+196	3624586 19100 0 98174 0 1.9988864057 693 0 1 346 346
+197	3643686 33099 0 98174 0 1.997447339033 1209 0 1 604 604
+198	3676785 1090 0 98174 0 1.977264236668 41 0 1 20 20
+199	3677875 24505 0 98174 0 1.996018170001 911 0 1 455 455
+200	3702380 2539 0 98174 0 1.948873066667 93 0 1 46 46
+201	3704919 29625 0 98174 0 1.995828413336 1093 0 1 546 546
+202	3734544 5501 0 98174 0 1.997273066667 215 0 1 107 107
+203	3740045 17560 0 98174 0 1.997273066667 671 0 1 335 335
+204	3757605 2283 0 98174 0 1.976779103334 85 0 1 42 42
+205	3759888 22976 0 98174 0 1.994389346669 851 0 1 425 425
+206	3782864 10062 0 98174 0 1.996012133334 373 0 1 186 186
+207	3792926 17037 0 98174 0 1.998712133334 643 0 1 321 321
+208	3809963 2171 0 98174 0 1.972583310002 81 0 1 40 40
+209	3812134 13179 0 98174 0 1.998573066667 531 0 1 265 265
+210	3825313 3655 0 98174 0 1.980419133334 147 0 1 73 73
+211	3828968 10524 0 98174 0 1.996773066667 437 0 1 218 218
+212	3839492 2399 0 98174 0 1.949079103334 93 0 1 46 46
+213	3841891 4433 0 98174 0 1.981365200001 167 0 1 83 83
+214	3846324 1685 0 98174 0 1.898219133334 65 0 1 32 32
+215	3848009 339 0 98174 0 1.807191992364 13 0 1 6 6
+216	3848348 3094 0 98174 0 1.980585140001 115 0 1 57 57
+217	3851442 7424 0 98174 0 1.982804266668 283 0 1 141 141
+218	3858866 2345 0 98174 0 1.941877125698 89 0 1 44 44
+219	3861211 7915 0 98174 0 1.982204065698 313 0 1 156 156
+220	3869126 15834 0 98174 0 1.994391992364 623 0 1 311 311
+221	3884960 6898 0 98174 0 1.992773066667 265 0 1 132 132
+222	3891858 15027 0 98174 0 1.988973066667 577 0 1 288 288
+223	3906885 11616 0 98174 0 1.997673066667 463 0 1 231 231
+224	3918501 5856 0 98174 0 1.986273066667 229 0 1 114 114
+225	3924357 25190 0 98174 0 1.993573066667 955 0 1 477 477
+226	3949547 11282 0 98174 0 1.990612133334 451 0 1 225 225
+227	3960829 3415 0 98174 0 1.976658200001 135 0 1 67 67
+228	3964244 23214 0 98174 0 1.999373066667 857 0 1 428 428
+229	3987458 24814 0 98174 0 2.004962259032 937 0 1 468 468
+230	4012272 8134 0 98174 0 2.004016192365 303 0 1 151 151
+231	4020406 2788 0 98174 0 1.994273066667 103 0 1 51 51
+232	4023194 20063 0 98174 0 2.000319133334 735 0 1 367 367
+233	4043257 26307 0 98174 0 2.002577125698 983 0 1 491 491
+234	4069564 968 0 98174 0 1.926973066667 37 0 1 18 18
+235	4070532 12377 0 98174 0 1.995712133334 465 0 1 232 232
+236	4082909 24253 0 98174 0 2.000958200001 889 0 1 444 444
+237	4107162 1015 0 98174 0 1.977085140001 39 0 1 19 19
+238	4108177 9086 0 98174 0 1.992773066667 339 0 1 169 169
+239	4117263 24246 0 98174 0 1.999519133334 939 0 1 469 469
+240	4141509 1515 0 98174 0 1.979473066667 61 0 1 30 30
+241	4143024 14390 0 98174 0 1.984819133334 579 0 1 289 289
+242	4157414 69289 1 98052 0.0001 1.999957992364 1671 0 0.15999999642372 137.93384566065 14.939789233609
+243	4226703 65572 1 98052 0.0001 1.999957992364 1661 3241.7443847656 4998.8999023438 6844785.4875488 28634450944.876
+244	4292275 81073 2 98108 0.0002 2.001339066667 1937 0 0.20769231021404 204.36769169057 28.307003415757
+245	4373348 77263 2 98108 0.0002 2.001339066667 1924 2972.9812011719 4998.8999023438 7671325.4709473 31246908811.16
+246	4450611 104851 3 98069 0.0002 2.000306036667 2546 0 0.40461537241936 522.59230583813 135.8955326207
+247	4555462 100804 3 98069 0.0002 2.000306036667 2537 2389.9680175781 4998.8999023438 9376303.746582 36113070139.571
+248	4656266 33377 5 98077 0.0005 2.000504206668 856 0 0.052307691425085 21.555384543259 0.79774437861091
+249	4689643 31265 5 98077 0.0005 2.000504206668 843 4091.2268066406 4998.8999023438 3831278.9597168 17470076292.792
+250	4720908 20457 6 97751 0.0005 1.994118925697 538 0 0.024615384638309 7.6061538713984 0.13387455791954
+251	4741365 19275 6 97751 0.0005 1.994118925697 527 4427.052734375 4998.8999023438 2484045.784668 11723124294.649
+252	4760640 72415 8 98070 0.000506036667 2.000318925697 1753 0 0.21999999880791 191.7876920579 26.695621271592
+253	4833055 69155 8 98070 0.000506036667 2.000318925697 1740 3180.9555664062 4998.8999023438 7115555.0197754 29583677410.772
+254	4902210 56915 9 98131 0.0006 2.002097206668 1312 0 0.089230768382549 64.27230754355 4.0425396255463
+255	4959125 53199 9 98131 0.0006 2.002097206668 1299 3606.4929199219 4998.8999023438 5591438.3762207 24278026842.276
+256	5012324 71171 10 98145 0.0008 2.002837236668 1746 0 0.25384616851807 222.64769189805 38.881715877321
+257	5083495 68117 10 98145 0.0008 2.002837236668 1730 3206.1533203125 4998.8999023438 7099185.1013184 29592670090.129
+258	5151612 59155 11 98090 0.0008 2.000882340002 1391 0 0.1107692271471 63.416923034005 4.456717151285
+259	5210767 56084 11 98090 0.0008 2.000882340002 1376 3530.8024902344 4998.8999023438 5862315.2492676 25222538526.151
+260	5266851 55380 13 98156 0.000806036667 2.003562199032 1303 0 0.079999998211861 52.012307146098 2.8889987485395
+261	5322231 43132 13 98000 0.000806036667 1.998824962364 1066 3769.7956542969 4998.8999023438 4672389.6796875 20613167639.397
+262	5365363 42717 14 98167 0.0009 2.004689192365 1032 0 0.079999998211861 43.230769260786 2.300094692902
+263	5408080 39513 14 98167 0.0009 2.004689192365 1015 3913.0522460938 4998.8999023438 4523706.3242188 20261693982.971
+264	5447593 87375 15 98170 0.001046066667 2.005301265699 2037 0 0.15076923370361 147.53076923126 15.116660390892
+265	5534968 74119 15 98170 0.001046066667 2.005301265699 1791 3000.1943359375 4998.8999023438 7161006.0976562 29228420908.3
+266	5609087 44631 16 98169 0.0011 2.005155199032 1089 0 0.049230769276619 27.186153429095 0.88053724704431
+267	5653718 41724 16 98169 0.0011 2.005155199032 1069 3838.4604492188 4998.8999023438 4723464.7587891 20991793575.518
+268	5695442 57458 17 98080 0.001106036667 2.000576303335 1372 0 0.095384612679482 57.169230074622 3.4179501892392
+269	5752900 53714 17 98080 0.001106036667 2.000576303335 1356 3545.400390625 4998.8999023438 5789355.6948242 24956902490.95
+270	5806614 156045 18 98173 0.001146066667 2.005913339033 3739 0 0.17230768501759 399.0061501544 50.189078027314
+271	5962659 70017 18 98103 0.001146066667 2.001209280002 1783 2335.8054199219 4998.8999023438 6597430.1799316 25493332885.011
+272	6032676 64517 19 98148 0.0012 2.003037236668 1575 0 0.14769230782986 101.93692340469 9.0004474199001
+273	6097193 60970 19 98148 0.0012 2.003037236668 1562 3343.8295898438 4998.8999023438 6508640.2460938 27480934002.211
+274	6158163 93097 20 98168 0.001206036667 2.004995229032 2179 0 0.11846154183149 153.95384549024 13.140714686654
+275	6251260 54691 20 98168 0.001206036667 2.004995229032 1351 3236.7138671875 4998.8999023438 5586345.0969238 23452521040.679
+276	6305951 53503 21 97971 0.001406036667 1.998364176668 1331 0 0.15384615957737 112.90307639632 11.984508795684
+277	6359454 50603 21 97971 0.001406036667 1.998364176668 1320 3613.595703125 4998.8999023438 5689538.8720703 24735894389.236
+278	6410057 34612 22 97900 0.001446066667 1.9971 836 0 0.03999999910593 15.499999972526 0.38799289695875
+279	6444669 32682 22 97900 0.001446066667 1.9971 828 4104.125 4998.8999023438 3768227.2294922 17204737260.95
+280	6477351 54158 23 98173 0.001446066667 2.005913339033 1956 0 9 8783 48577
+281	6531509 79194 23 98173 0.001446066667 2.005913339033 1956 0.001446066667 2.005913339033 1965.6205022794 2625.9504403489
+282	6610703 79194 23 98173 0.001446066667 2.005913339033 1956 0.001413096667 2.005616609033 1965.3309267694 2625.3651095982
+283	6689897 136308 24 98172 0.001452103334 2.005607302366 3216 0 0.1769230812788 307.81846116344 36.690726600252
+284	6826205 81085 24 98172 0.001452103334 2.005607302366 2007 2389.4460449219 4998.8999023438 7437321.4301758 28711922175.251
+285	6907290 28624 25 97870 0.0015 1.996639066667 690 0 0.026153845712543 10.846153711434 0.21591478739699
+286	6935914 27384 25 97870 0.0015 1.996639066667 676 4262.638671875 4998.8999023438 3131242.0639648 14534522265.143
+287	6963298 7146 26 97217 0.0015 1.982531200001 228 0 0.0015384615398943 0.12307692319155 0.00018934911277873
+288	6970444 7927 26 97217 0.0015 1.982531200001 205 4765.982421875 4998.8999023438 1000661.637207 4885440795.769
+289	6978371 60193 28 98127 0.0017 2.001882954728 1491 0 0.13230769336224 82.172307402361 7.1882271971816
+290	7038564 57511 28 98127 0.0017 2.001882954728 1474 3432.0163574219 4998.8999023438 6206746.2788086 26435396309.264
+291	7096075 35267 29 97725 0.0017 1.9933 888 0 0.083076924085617 34.715384187177 1.8574650381904
+292	7131342 32525 29 97725 0.0017 1.9933 870 4073.5322265625 4998.8999023438 3945225.2573242 17952885878.546
+293	7163867 53231 30 98110 0.001712073334 2.001398170001 1249 0 0.07230769097805 49.266153753735 2.3231692238905
+294	7217098 49897 30 98110 0.001712073334 2.001398170001 1239 3665.9829101562 4998.8999023438 5370073.8554688 23460384678.987
+295	7266995 39446 32 98060 0.001752103334 2.000091170001 949 0 0.092307694256306 49.507692055311 3.3968520260859
+296	7306441 37406 32 98060 0.001752103334 2.000091170001 940 4004.3410644531 4998.8999023438 4234112.3415527 19149185604.641
+297	7343847 41078 34 98128 0.001806036667 2.001943273335 968 0 0.043076921254396 15.359999955166 0.40657988079362
+298	7384925 30384 34 98128 0.001806036667 2.001943273335 748 4108.75390625 4998.8999023438 3403481.6152344 15535613052.641
+299	7415309 81992 35 98123 0.001945103334 2.001757992364 1914 0 0.18153846263885 183.54923055414 23.947936078993
+300	7497301 79067 35 98123 0.001945103334 2.001757992364 1907 2982.1789550781 4998.8999023438 7613999.5270996 31042152731.402
+301	7576368 88996 36 98124 0.001992133334 2.001798170001 2065 0 0.18000000715256 211.20153832808 28.308319434638
+302	7665364 76147 36 98124 0.001992133334 2.001798170001 1846 2963.7993164062 4998.8999023438 7363727.0456543 30005996118.438
+303	7741511 79814 37 98143 0.002 2.002807302366 1968 0 0.24769230186939 255.45846061734 44.55004467997
+304	7821325 76842 37 98143 0.002 2.002807302366 1956 2956.3862304688 4998.8999023438 7785826.7224121 31666655783.445
+305	7898167 125927 38 98157 0.002 2.003650125698 2930 0 0.19846153259277 313.01846202416 41.826665285105
+306	8024094 85686 38 98097 0.002 2.000964176668 2085 2459.8090820312 4998.8999023438 7807278.8029785 30360327379.455
+307	8109780 42654 42 98054 0.002058140001 1.999997206668 989 0 0.053846154361963 28.073846145999 1.0909964529585
+308	8152434 39994 42 98054 0.002058140001 1.999997206668 979 3943.5458984375 4998.8999023438 4378024.7680664 19669063233.936
+309	8192428 53338 43 97887 0.002112073334 1.9969 1299 0 0.10615384578705 68.178461574484 4.6860923167317
+310	8245766 41154 43 97887 0.002112073334 1.9969 1077 3774.7946777344 4998.8999023438 4721846.0185547 20836248538.566
+311	8286920 61642 44 98154 0.002146066667 2.003316132365 1412 0 0.050769232213497 42.427692524623 1.6584000309269
+312	8348562 57780 44 98154 0.002146066667 2.003316132365 1399 3479.0065917969 4998.8999023438 5933970.3852539 25437835945.792
+313	8406342 128466 48 98150 0.002306036667 2.003113339033 3061 0 0.18923076987267 346.81692285789 46.406733694206
+314	8534808 74335 48 98150 0.002306036667 2.003113339033 1869 2553.6259765625 4998.8999023438 7094418.2644043 27883026053.684
+315	8609143 6111 49 97822 0.002306036667 1.995618110001 219 1 8 931 4539
+316	8615254 8958 49 97822 0.002306036667 1.995618110001 219 0.002306036667 1.995618110001 225.63550657991 307.01531938631
+317	8624212 8958 49 97822 0.002306036667 1.995618110001 219 0.002273066667 1.995519200001 225.60481150991 306.9520389483
+318	8633170 49099 51 98076 0.002364176668 2.000452103334 1138 0 0.049230769276619 31.173845971934 1.0721585640904
+319	8682269 46335 51 98076 0.002364176668 2.000452103334 1131 3775.4670410156 4998.8999023438 4964020.3195801 21928904017.534
+320	8728604 74215 53 98160 0.0024 2.003900450003 1764 0 0.10307691991329 105.96153827151 8.0507194946126
+321	8802819 35933 53 98043 0.0024 1.999706036667 942 3683.1684570312 4998.8999023438 4095843.526123 17945338000.043
+322	8838752 122845 54 98122 0.002418925697 2.001728205699 2946 0 0.34153845906258 517.49076866126 122.98515221029
+323	8961597 85217 54 98122 0.002418925697 2.001728205699 2144 2476.4118652344 4998.8999023438 8026807.9052734 31179973037.609
+324	9046814 50590 57 97906 0.0025 1.997174272366 1194 0 0.087692305445671 49.504615388345 2.8777372852992
+325	9097404 47318 57 97906 0.0025 1.997174272366 1182 3734.8754882812 4998.8999023438 5159856.2658691 22682088321.653
+326	9144722 143146 59 98152 0.002604206668 2.003167272366 3357 0 0.1784615367651 328.99076919025 39.643801215701
+327	9287868 87048 59 98152 0.002604206668 2.003167272366 2133 2245.5629882812 4998.8999023438 7750900.0395508 29533284583.887
+328	9374916 23072 61 98144 0.002646066667 2.002829021395 828 0 9 3713 19445
+329	9397988 33804 61 98144 0.002646066667 2.002829021395 828 0.002646066667 2.002829021395 857.87142760779 1158.4136578332
+330	9431792 33804 61 98144 0.002646066667 2.002829021395 828 0.002613096667 2.002664171395 857.74900999779 1158.1594897782
+331	9465596 30699 62 98137 0.002670213335 2.002447131396 770 0 0.033846154808998 14.26307679154 0.3501183378282
+332	9496295 29933 62 97929 0.002670213335 1.997585133334 758 4177.1313476562 4998.8999023438 3478530.3305664 16006016255.049
+333	9526228 100268 71 98163 0.002910243335 2.004262199032 2385 0 0.083076924085617 104.71692163637 6.3755169807647
+334	9626496 33559 71 98163 0.002910243335 2.004262199032 1214 0 10 6367 40341
+335	9660055 49028 71 98163 0.002910243335 2.004262199032 1214 0.002910243335 2.004262199032 1191.5828298324 1563.680547876
+336	9709083 49028 71 98163 0.002910243335 2.004262199032 1214 0.002745393335 2.004064379032 1191.3729098424 1563.2673129642
+337	9758111 44715 75 98138 0.003092133334 2.002461383336 1171 3264.6474609375 4998.5 4832406.755127 20236087238.522
+338	9802826 26340 77 97920 0.003139066667 1.9974 677 0 0.021538460627198 7.9061537319794 0.11839762966143
+339	9829166 24636 77 97920 0.003139066667 1.9974 665 4273.4389648438 4998.8999023438 3083099.9145508 14323266694.414
+340	9853802 38074 79 98098 0.0032 2.001037236668 970 0 0.078461535274982 34.62461495772 1.7310532066257
+341	9891876 35641 79 98098 0.0032 2.001037236668 962 3974.2431640625 4998.8999023438 4314376.0539551 19433512689.002
+342	9927517 42538 80 98171 0.0032 2.005461235699 1016 0 0.03999999910593 19.950769167859 0.51421538161721
+343	9970055 39274 80 97975 0.0032 1.998439066667 998 3913.5495605469 4998.8999023438 4446496.7468262 19909473646.642
+344	10009329 112266 84 98174 0.003412073334 2.006095229032 2647 0 0.041538462042809 59.281538252719 1.7527881584299
+345	10121595 54528 84 98174 0.003412073334 2.006095229032 1976 0 10 10283 65005
+346	10176123 79522 84 98174 0.003412073334 2.006095229032 1976 0.003412073334 2.006095229032 1980.5946594267 2642.5654206362
+347	10255645 79522 84 98174 0.003412073334 2.006095229032 1976 0.003346133334 2.005897409032 1980.2556289167 2641.8875142881
+348	10335167 34392 86 97804 0.003457176668 1.9952 823 0 0.049230769276619 19.473846046254 0.61454200792119
+349	10369559 442 86 93577 0.003457176668 1.908201265699 16 1 10 86 572
+350	10370001 647 86 93577 0.003457176668 1.908201265699 16 0.003457176668 1.908201265699 15.635321730752 22.583422731483
+351	10370648 647 86 93577 0.003457176668 1.908201265699 16 0.003325296668 1.907970475699 15.632486310752 22.576960020319
+352	10371295 58882 91 98139 0.003730999031 2.002501265699 1390 0 0.098461538553238 71.563076824881 4.7458177430308
+353	10430177 54756 91 98139 0.003730999031 2.002501265699 1368 3531.2038574219 4998.8999023438 5835712.5695801 25141038461.221
+354	10484933 98638 98 98112 0.003939066667 2.001492133334 2343 0 0.1446153819561 189.28153749742 19.09974181375
+355	10583571 61106 98 98112 0.003939066667 2.001492133334 1548 3045.1372070312 4998.8999023438 6237937.2729492 25630759929.626
+356	10644677 34027 111 97908 0.004246066667 1.997255199032 1224 0 9 5512 30544
+357	10678704 49835 111 97908 0.004246066667 1.997255199032 1224 0.004246066667 1.997255199032 1231.1189973397 1642.0538549395
+358	10728539 49835 111 97908 0.004246066667 1.997255199032 1224 0.004213096667 1.997057379032 1230.9372666997 1641.6869928798
+359	10778374 22327 116 97965 0.0044 1.9983 600 0 0.056923076510429 16.955384392291 0.62840471846261
+360	10800701 20603 116 97965 0.0044 1.9983 593 4370.75 4998.8999023438 2778199.7983398 13035491897.822
+361	10821304 59091 122 98159 0.004622316669 2.003743125698 1384 0 0.027692306786776 23.523076770827 0.48541537734396
+362	10880395 22205 122 98004 0.004622316669 1.9989193757 797 0 10 4226 26130
+363	10902600 32516 122 98004 0.004622316669 1.9989193757 797 0.004622316669 1.9989193757 793.25805008563 1055.5045274827
+364	10935116 32516 122 98004 0.004622316669 1.9989193757 797 0.004391526669 1.9985896757 793.11871886563 1055.2228776996
+365	10967632 48141 132 98158 0.0048 2.003716132365 1139 0 0.056923076510429 30.435384594835 1.1566982245063
+366	11015773 45085 132 98158 0.0048 2.003716132365 1128 3780.6672363281 4998.8999023438 4950749.7792969 21868081201.918
+367	11060858 31855 141 97804 0.005055346669 1.9952 807 4128.2290039062 4998.5 3682349.0522461 16853672369.747
+368	11092713 62560 145 98151 0.005106036667 2.003143273335 1430 0 0.081538461148739 58.910769000184 3.1873703957962
+369	11155273 50224 145 97941 0.005106036667 1.997943273335 1214 3615.7102050781 4998.8999023438 5232480.0349121 22747770582.562
+370	11205497 32689 151 98020 0.005346066667 1.999246066667 837 0 0.059999998658895 24.335384755861 0.8880804831094
+371	11238186 30185 151 98020 0.005346066667 1.999246066667 827 4113.5278320312 4998.8999023438 3767326.5258789 17216484853.417
+372	11268371 33473 157 98129 0.005397206668 2.002035058062 1209 0 8 4859 23627
+373	11301844 48946 157 98129 0.005397206668 2.002035058062 1209 0.005397206668 2.002035058062 1209.4883566667 1615.1803640908
+374	11350790 48946 157 98129 0.005397206668 2.002035058062 1209 0.005265326668 2.001837238062 1209.3281554367 1614.8617178993
+375	11399736 41722 160 98109 0.005506036667 2.001343273335 980 0 0.075384616851807 29.146153639071 1.3097490977966
+376	11441458 39094 160 98109 0.005506036667 2.001343273335 972 3961.8442382812 4998.8999023438 4351426.4765625 19567950207.617
+377	11480552 48930 163 98164 0.005639066667 2.004476303335 1139 0 0.050769232213497 27.3446155563 0.88380593282739
+378	11529482 46186 163 98164 0.005639066667 2.004476303335 1127 3778.5671386719 4998.8999023438 4944625.9660645 21834667454.622
+379	11575668 57627 172 98119 0.005812073334 2.001649310002 1400 0 0.12461538612843 100.29230794311 8.6389965135078
+380	11633295 54541 172 98119 0.005812073334 2.001649310002 1387 3525.8054199219 4998.8999023438 5918629.371582 25509624553.347
+381	11687836 35097 176 98115 0.005952103334 2.001555346669 887 0 0.090769231319427 34.92153861979 2.0977444077398
+382	11722933 35217 176 98115 0.005952103334 2.001555346669 881 4069.7314453125 4998.8999023438 3992138.0844727 18152935409.757
+383	11758150 32961 184 98062 0.006128205699 2.000124962364 1192 0 9 5278 28860
+384	11791111 48189 184 98062 0.006128205699 2.000124962364 1192 0.006128205699 2.000124962364 1202.9981076664 1606.3208515441
+385	11839300 48189 184 98062 0.006128205699 2.000124962364 1192 0.005897415699 2.000059022364 1202.8240920064 1605.9695993128
+386	11887489 6596 198 98156 0.006564029031 2.003562199032 237 0 9 1077 5987
+387	11894085 9669 198 98156 0.006564029031 2.003562199032 237 0.006564029031 2.003562199032 235.99943246151 315.18067121626
+388	11903754 9669 198 98156 0.006564029031 2.003562199032 237 0.006465119031 2.003364379032 235.96392377151 315.1098798021
+389	11913423 90577 203 98035 0.006724962364 1.999562199032 2185 0 0.25999999046326 316.29845931334 58.353414436263
+390	12004000 78494 203 98035 0.006724962364 1.999562199032 1968 2866.8168945312 4998.8999023438 7753826.6660156 31294269861.217
+391	12082494 27951 204 98084 0.006785133334 2.000685133334 659 0 0.027692306786776 10.781538454816 0.19636449638415
+392	12110445 25926 204 98084 0.006785133334 2.000685133334 650 4293.9409179688 4998.8999023438 3020585.4663086 14064178070.608
+393	12136371 5878 213 97148 0.0071 1.981092133334 173 0 0.0030769230797887 0.22461538482457 0.00060591716089192
+394	12142249 6256 213 97148 0.0071 1.981092133334 163 4818.0854492188 4998.8999023438 799944.03417969 3926279877.4671
+395	12148505 47654 222 98147 0.007391170001 2.002994413336 1110 0 0.1092307716608 55.886153530329 4.1392993575872
+396	12196159 44568 222 98147 0.007391170001 2.002994413336 1095 3839.1640625 4998.8999023438 4836557.0698242 21484960347.929
+397	12240727 24500 224 98025 0.0074 1.999312073334 671 3495.3959960938 4997.7001953125 2847805.364502 12215492928.285
+398	12265227 22153 228 98071 0.007455346669 2.000331200001 802 0 9 3575 19837
+399	12287380 32360 228 98071 0.007455346669 2.000331200001 802 0.007455346669 2.000331200001 810.89068890592 1077.0537798304
+400	12319740 32360 228 98071 0.007455346669 2.000331200001 802 0.007224556669 2.000232290001 810.77282115593 1076.818036713
+401	12352100 44479 232 97894 0.0075 1.997 1102 0 0.095384612679482 51.936922686175 3.3375975791937
+402	12396579 42484 232 97894 0.0075 1.997 1092 3838.162109375 4998.8999023438 4824881.8215332 21440843418.201
+403	12439063 57775 241 97959 0.007651140001 1.9982 1389 0 0.12307692319155 84.983076923992 7.4444568238843
+404	12496838 54862 241 97959 0.007651140001 1.9982 1381 3533.7043457031 4998.8999023438 5891399.6396484 25378099145.831
+405	12551700 32616 277 98134 0.0083 2.002304059031 787 0 0.052307691425085 18.61999993911 0.6563147892131
+406	12584316 30303 277 98134 0.0083 2.002304059031 775 4166.4321289062 4998.8999023438 3550300.0390625 16308648255.853
+407	12614619 86832 279 98165 0.008312073334 2.004576918061 1993 0 0.070769228041172 66.855384428985 3.0879999855149
+408	12701451 50213 279 98044 0.008312073334 1.999755961395 1216 3385.8901367188 4998.8999023438 5098465.0349121 21644085305.82
+409	12751664 23427 280 98159 0.008316280002 2.003743125698 587 4048.1315917969 4997.3002929688 2651982.2456055 12025302056.693
+410	12775091 22064 303 98034 0.008939066667 1.999555346669 795 0 9 3617 19349
+411	12797155 32295 303 98034 0.008939066667 1.999555346669 795 0.008939066667 1.999555346669 786.02469648513 1049.7489114937
+412	12829450 32295 303 98034 0.008939066667 1.999555346669 795 0.008906096667 1.999324556669 785.90544399513 1049.512250165
+413	12861745 5950 416 97686 0.010406036667 1.992443273335 217 0 8 948 4982
+414	12867695 8672 416 97686 0.010406036667 1.992443273335 217 0.010406036667 1.992443273335 211.84853264489 280.10138284292
+415	12876367 8672 416 97686 0.010406036667 1.992443273335 217 0.010373066667 1.992278423335 211.81727708489 280.04098966178
+416	12885039 6868 428 97704 0.010658140001 1.992743125698 246 1 8 1041 5073
+417	12891907 10066 428 97704 0.010658140001 1.992743125698 246 0.010658140001 1.992743125698 243.92543401448 318.55309535495
+418	12901973 10066 428 97704 0.010658140001 1.992743125698 246 0.010559230001 1.992611245698 243.89111224448 318.48519426431
+419	12912039 22834 438 98160 0.010861383336 2.003900450003 822 0 10 4331 27629
+420	12934873 33379 438 98160 0.010861383336 2.003900450003 822 0.010861383336 2.003900450003 832.48145024447 1102.6364570411
+421	12968252 33379 438 98160 0.010861383336 2.003900450003 822 0.010597623336 2.003603720003 832.33865717447 1102.3474481774
+422	13001631 23536 442 98157 0.010949310002 2.003650125698 845 0 8 3591 17939
+423	13025167 34473 442 98157 0.010949310002 2.003650125698 845 0.010949310002 2.003650125698 874.63362232493 1191.0447536889
+424	13059640 34473 442 98157 0.010949310002 2.003650125698 845 0.010751490002 2.003518245698 874.51522705493 1190.8015922546
+425	13094113 21672 473 98165 0.011430999031 2.004576918061 777 1 9 3420 18164
+426	13115785 31773 473 98165 0.011430999031 2.004576918061 777 0.011430999031 2.004576918061 785.89127571722 1049.1128487487
+427	13147558 31773 473 98165 0.011430999031 2.004576918061 777 0.011332089031 2.004478008061 785.77851831722 1048.8859460008
+428	13179331 6144 527 97598 0.012576303335 1.990795229032 222 0 8 916 4700
+429	13185475 8989 527 97598 0.012576303335 1.990795229032 222 0.012576303335 1.990795229032 210.19962257879 280.25291361242
+430	13194464 8989 527 97598 0.012576303335 1.990795229032 222 0.012411453335 1.990597409032 210.16942205879 280.19463643029
+431	13203453 278 545 65943 0.012813339033 1.343357992364 10 2 9 51 317
+432	13203731 408 545 65943 0.012813339033 1.343357992364 10 0.012813339033 1.343357992364 7.900220783227 8.1747128392369
+433	13204139 408 545 65943 0.012813339033 1.343357992364 10 0.012516609033 1.343292052364 7.898539313227 8.1723703234927
+434	13204547 6139 586 97633 0.013491170001 1.991355961395 220 1 9 1021 5673
+435	13210686 8999 586 97633 0.013491170001 1.991355961395 220 0.013491170001 1.991355961395 217.93899197391 286.01261948814
+436	13219685 8999 586 97633 0.013491170001 1.991355961395 220 0.013392260001 1.991191111395 217.90532960391 285.94555627496
+437	13228684 6033 765 98151 0.016157992364 2.003143273335 216 1 8 867 4259
+438	13234717 8841 765 98151 0.016157992364 2.003143273335 216 0.016157992364 2.003143273335 227.99236772486 307.24367884016
+439	13243558 8841 765 98151 0.016157992364 2.003143273335 216 0.016092052364 2.002978423335 227.96378273486 307.18311211143
+440	13252399 323 1126 87064 0.023045103334 1.768009280002 12 0 10 60 420
+441	13252722 465 1126 87064 0.023045103334 1.768009280002 12 0.023045103334 1.768009280002 9.70810945517 12.309097411771
+442	13253187 465 1126 87064 0.023045103334 1.768009280002 12 0.022979163334 1.767811460002 9.70613125517 12.305860106048
+443	13253652 195 1370 94042 0.028652103334 1.918376918061 7 2 7 28 132
+444	13253847 286 1370 94042 0.028652103334 1.918376918061 7 0.028652103334 1.918376918061 5.887231801826 7.5169667261001
+445	13254133 286 1370 94042 0.028652103334 1.918376918061 7 0.028586163334 1.918278008061 5.886308641826 7.5154449416334
+446	13254419 215 1485 95789 0.030549924728 1.955929021395 8 0 7 34 176
+447	13254634 311 1485 95789 0.030549924728 1.955929021395 8 0.030549924728 1.955929021395 7.652992838918 10.436043867605
+448	13254945 311 1485 95789 0.030549924728 1.955929021395 8 0.030418044728 1.955764171395 7.651871858918 10.433837644093
+449	13255256 447 1495 96588 0.030681124729 1.969903243335 16 1 9 75 423
+450	13255703 655 1495 96588 0.030681124729 1.969903243335 16 0.030681124729 1.969903243335 16.677509156445 21.551649735036
+451	13256358 655 1495 96588 0.030681124729 1.969903243335 16 0.030450334729 1.969738393335 16.675036406445 21.546738668968
+452	13257013 305 1553 96791 0.031550125698 1.973418110001 11 3 10 60 382
+453	13257318 445 1553 96791 0.031550125698 1.973418110001 11 0.031550125698 1.973418110001 10.60302778032 14.32322991462
+454	13257763 445 1553 96791 0.031550125698 1.973418110001 11 0.031418245698 1.973319200001 10.60104958032 14.319419327094
+455	13258208 333 1775 93160 0.035724962364 1.900718925697 12 1 8 49 245
+456	13258541 489 1775 93160 0.035724962364 1.900718925697 12 0.035724962364 1.900718925697 12.922408005043 20.514953977742
+457	13259030 489 1775 93160 0.035724962364 1.900718925697 12 0.035659022364 1.900685955697 12.920792475043 20.511335348081
+458	13259519 638 2622 91936 0.0520193757 1.872437035698 23 2 10 129 865
+459	13260157 931 2622 91936 0.0520193757 1.872437035698 23 0.0520193757 1.872437035698 19.866735215793 23.475926411245
+460	13261088 931 2622 91936 0.0520193757 1.872437035698 23 0.0516896757 1.872305155698 19.862482085793 23.468934039947
+461	13262019 362 2653 93088 0.053137851394 1.898945103334 13 1 8 47 225
+462	13262381 531 2653 93088 0.053137851394 1.898945103334 13 0.053137851394 1.898945103334 11.636681277829 14.868592045563
+463	13262912 531 2653 93088 0.053137851394 1.898945103334 13 0.053071911394 1.898879163334 11.635131687829 14.866154484567
+464	13263443 270 2722 95877 0.054612073334 1.957470065698 10 0 5 28 96
+465	13263713 392 2722 95877 0.054612073334 1.957470065698 10 0.054612073334 1.957470065698 6.932305771826 7.9672209831209
+466	13264105 392 2722 95877 0.054612073334 1.957470065698 10 0.054546133334 1.957338185698 6.931382611826 7.9657421828791
+467	13264497 361 2811 95793 0.056306036667 1.955967272366 13 1 10 72 490
+468	13264858 527 2811 95793 0.056306036667 1.955967272366 13 0.056306036667 1.955967272366 15.588533451294 24.372908189496
+469	13265385 527 2811 95793 0.056306036667 1.955967272366 13 0.056273066667 1.955703512366 15.586159611294 24.366825111628
+470	13265912 614 3095 97435 0.061862199032 1.986862199032 22 1 7 90 432
+471	13266526 900 3095 97435 0.061862199032 1.986862199032 22 0.061862199032 1.986862199032 20.8431433016 25.660929117875
+472	13267426 900 3095 97435 0.061862199032 1.986862199032 22 0.061664379032 1.986664379032 20.8401760016 25.655297271017
+473	13268326 390 3160 94816 0.063282139032 1.935218110001 14 1 10 78 534
+474	13268716 568 3160 94816 0.063282139032 1.935218110001 14 0.063282139032 1.935218110001 13.875942479356 18.748340539885
+475	13269284 568 3160 94816 0.063282139032 1.935218110001 14 0.063084319032 1.935119200001 13.873370819356 18.743209601838
+476	13269852 166 3330 77832 0.066906036667 1.581257992364 6 1 8 28 170
+477	13270018 244 3330 77832 0.066906036667 1.581257992364 6 0.066906036667 1.581257992364 4.664664630856 5.4100970975643
+478	13270262 244 3330 77832 0.066906036667 1.581257992364 6 0.066873066667 1.581192052364 4.663741470856 5.4085631874906
+479	13270506 306 3611 83784 0.074210095698 1.701651140001 11 1 7 33 131
+480	13270812 449 3611 83784 0.074210095698 1.701651140001 11 0.074210095698 1.701651140001 11.209701306131 15.297985539152
+481	13271261 449 3611 83784 0.074210095698 1.701651140001 11 0.074078215698 1.701552230001 11.208613296131 15.29598535829
+482	13271710 417 4087 90150 0.085843273335 1.831643888061 15 1 7 68 356
+483	13272127 612 4087 90150 0.085843273335 1.831643888061 15 0.085843273335 1.831643888061 15.410557882986 21.686652679455
+484	13272739 612 4087 90150 0.085843273335 1.831643888061 15 0.085678423335 1.831544978061 15.408315922986 21.682080789514
+485	13273351 279 4376 86753 0.091612073334 1.762082340002 10 2 6 43 205
+486	13273630 409 4376 86753 0.091612073334 1.762082340002 10 0.091612073334 1.762082340002 10.610394702801 14.146399135389
+487	13274039 409 4376 86753 0.091612073334 1.762082340002 10 0.091546133334 1.761884520002 10.608976992801 14.143285020385
+488	13274448 362 4783 92365 0.099895028062 1.882812073334 13 2 8 59 319
+489	13274810 531 4783 92365 0.099895028062 1.882812073334 13 0.099895028062 1.882812073334 14.240700491713 19.781658985904
+490	13275341 531 4783 92365 0.099895028062 1.882812073334 13 0.099697208062 1.882746133334 14.238755261713 19.777529860893
+491	13275872 418 4786 83673 0.100001265699 1.698969051395 15 1 8 70 386
+492	13276290 613 4786 83673 0.100001265699 1.698969051395 15 0.100001265699 1.698969051395 14.51564015602 17.749493183032
+493	13276903 613 4786 83673 0.100001265699 1.698969051395 15 0.099770475699 1.698804201395 14.51333225602 17.745222537847
+494	13277516 475 5137 97424 0.108155346669 1.986639066667 17 1 7 80 444
+495	13277991 696 5137 97424 0.108155346669 1.986639066667 17 0.108155346669 1.986639066667 19.65985609687 29.274028172202
+496	13278687 696 5137 97424 0.108155346669 1.986639066667 17 0.107924556669 1.986606096667 19.65721849687 29.268126305263
+497	13279383 333 5326 62431 0.111609280002 1.274843072365 12 1 10 63 409
+498	13279716 484 5326 62431 0.111609280002 1.274843072365 12 0.111609280002 1.274843072365 8.438793932261 8.0977347790739
+499	13280200 484 5326 62431 0.111609280002 1.274843072365 12 0.111411460002 1.274678222365 8.436716822261 8.0947111697603
+500	13280684 307 6384 94184 0.133350125698 1.921470065698 11 2 7 43 193
+501	13280991 450 6384 94184 0.133350125698 1.921470065698 11 0.133350125698 1.921470065698 13.058400540861 18.280578826063
+502	13281441 450 6384 94184 0.133350125698 1.921470065698 11 0.133218245698 1.921338185698 13.056982830861 18.277183030208
+503	13281891 363 6415 94167 0.133863213335 1.921135058062 13 2 8 63 339
+504	13282254 532 6415 94167 0.133863213335 1.921135058062 13 0.133863213335 1.921135058062 15.204944326441 21.841677772488
+505	13282786 532 6415 94167 0.133863213335 1.921135058062 13 0.133698363335 1.920937238062 15.202867216441 21.837146855162
+506	13283318 223 6490 93082 0.135112073334 1.898864176668 8 1 6 35 179
+507	13283541 327 6490 93082 0.135112073334 1.898864176668 8 0.135112073334 1.898864176668 8.895345956555 13.66778277292
+508	13283868 327 6490 93082 0.135112073334 1.898864176668 8 0.135046133334 1.898732296668 8.894192006555 13.664984304465
+509	13284195 475 6759 96031 0.140643125698 1.960449162365 17 1 9 78 436
+510	13284670 696 6759 96031 0.140643125698 1.960449162365 17 0.140643125698 1.960449162365 18.276113467416 25.853017413492
+511	13285366 696 6759 96031 0.140643125698 1.960449162365 17 0.140511245698 1.960284312365 18.273541807416 25.847237296722
+512	13286062 362 6893 95481 0.144010095698 1.949382340002 13 2 8 57 279
+513	13286424 531 6893 95481 0.144010095698 1.949382340002 13 0.144010095698 1.949382340002 12.000890585169 14.850941178791
+514	13286955 531 6893 95481 0.144010095698 1.949382340002 13 0.143878215698 1.949184520002 11.999011295169 14.847437376079
+515	13287486 223 7150 89512 0.149722169032 1.817864176668 8 3 6 33 147
+516	13287709 327 7150 89512 0.149722169032 1.817864176668 8 0.149722169032 1.817864176668 8.637389327101 11.738814484503
+517	13288036 327 7150 89512 0.149722169032 1.817864176668 8 0.149524349032 1.817732296668 8.636301317101 11.736707190582
+518	13288363 271 7992 95170 0.166056162365 1.941903095698 10 0 6 38 178
+519	13288634 393 7992 95170 0.166056162365 1.941903095698 10 0.166056162365 1.941903095698 10.982182285586 15.105903578045
+520	13289027 393 7992 95170 0.166056162365 1.941903095698 10 0.165891312365 1.941771215698 10.980929425586 15.103276177589
+521	13289420 252 10324 90820 0.212445103334 1.844557992364 9 1 8 34 186
+522	13289672 369 10324 90820 0.212445103334 1.844557992364 9 0.212445103334 1.844557992364 9.008180000858 11.230036877301
+523	13290041 369 10324 90820 0.212445103334 1.844557992364 9 0.212379163334 1.844492052364 9.007059020858 11.227821386005
+524	13290410 252 10383 86921 0.213804059031 1.765056162365 9 2 9 43 253
+525	13290662 369 10383 86921 0.213804059031 1.765056162365 9 0.213804059031 1.765056162365 6.387514390861 6.3425241352087
+526	13291031 369 10383 86921 0.213804059031 1.765056162365 9 0.213705149031 1.764891312365 6.386096680861 6.3405651349563
+527	13291400 504 10836 98171 0.223012073334 2.005461235699 18 2 9 84 492
+528	13291904 738 10836 98171 0.223012073334 2.005461235699 18 0.223012073334 2.005461235699 15.712756939358 18.57420320565
+529	13292642 738 10836 98171 0.223012073334 2.005461235699 18 0.222946133334 2.005230445699 15.709987459358 18.568664524895
+530	13293380 207 11980 91552 0.246206036667 1.862588991395 8 0 5 21 89
+531	13293587 294 11980 91552 0.246206036667 1.862588991395 8 0.246206036667 1.862588991395 7.263317596127 9.536698867323
+532	13293881 294 11980 91552 0.246206036667 1.862588991395 8 0.246173066667 1.862424141395 7.262625226127 9.5355081541952
+533	13294175 504 12542 94165 0.258139066667 1.921088991395 18 1 8 67 331
+534	13294679 738 12542 94165 0.258139066667 1.921088991395 18 0.258139066667 1.921088991395 18.263303267959 23.080101891295
+535	13295417 738 12542 94165 0.258139066667 1.921088991395 18 0.258106096667 1.920924141395 18.261094277959 23.075224812839
+536	13296155 364 12834 90585 0.264440131396 1.839850125698 13 2 10 65 421
+537	13296519 531 12834 90585 0.264440131396 1.839850125698 13 0.264440131396 1.839850125698 11.349711083655 12.548502616906
+538	13297050 531 12834 90585 0.264440131396 1.839850125698 13 0.264176371396 1.839718245698 11.347568033655 12.544892077084
+539	13297581 280 12921 66396 0.266540131396 1.352555346669 10 2 9 60 410
+540	13297861 410 12921 66396 0.266540131396 1.352555346669 10 0.266540131396 1.352555346669 7.65166766032 7.1158254514766
+541	13298271 410 12921 66396 0.266540131396 1.352555346669 10 0.266276371396 1.352324556669 7.64968946032 7.1125626917924
+542	13298681 252 13777 88638 0.286562051395 1.800361235699 9 2 7 45 245
+543	13298933 369 13777 88638 0.286562051395 1.800361235699 9 0.286562051395 1.800361235699 8.968617140315 11.410276286021
+544	13299302 369 13777 88638 0.286562051395 1.800361235699 9 0.286397201395 1.800130445699 8.967133490315 11.407208255475
+545	13299671 328 14440 76101 0.299737035698 1.543939066667 12 0 8 45 229
+546	13299999 476 14440 76101 0.299737035698 1.543939066667 12 0.299737035698 1.543939066667 9.951592473225 10.851719384134
+547	13300475 476 14440 76101 0.299737035698 1.543939066667 12 0.299605155698 1.543906096667 9.950108823225 10.849124952976
+548	13300951 336 15143 98137 0.313253168063 2.002447131396 12 1 9 69 481
+549	13301287 492 15143 98137 0.313253168063 2.002447131396 12 0.313253168063 2.002447131396 13.900593837413 19.271956972696
+550	13301779 492 15143 98137 0.313253168063 2.002447131396 12 0.312956438063 2.002183371396 13.898318907413 19.266347693586
+551	13302271 440 15299 94150 0.316456162365 1.920812073334 16 0 9 64 348
+552	13302711 640 15299 94150 0.316456162365 1.920812073334 16 0.316456162365 1.920812073334 20.408357005048 29.763540267223
+553	13303351 640 15299 94150 0.316456162365 1.920812073334 16 0.316291312365 1.920746133334 20.406246925048 29.757992401197
+554	13303991 552 15440 95211 0.319049162365 1.943046066667 20 0 7 83 433
+555	13304543 804 15440 95211 0.319049162365 1.943046066667 20 0.319049162365 1.943046066667 18.771856488811 21.447106380442
+556	13305347 804 15440 95211 0.319049162365 1.943046066667 20 0.318884312365 1.943013096667 18.769119978811 21.442041262227
+557	13306151 196 16213 97048 0.333013339033 1.979197206668 7 4 10 51 403
+558	13306347 285 16213 97048 0.333013339033 1.979197206668 7 0.333013339033 1.979197206668 8.127221693227 11.385331672677
+559	13306632 285 16213 97048 0.333013339033 1.979197206668 7 0.332716609033 1.979065326668 8.125540223227 11.381730982011
+560	13306917 336 18135 96662 0.375869051395 1.971288376669 12 1 7 54 300
+561	13307253 492 18135 96662 0.375869051395 1.971288376669 12 0.375869051395 1.971288376669 11.728090398378 14.553692318413
+562	13307745 492 18135 96662 0.375869051395 1.971288376669 12 0.375704201395 1.971057586669 11.726310018378 14.550030375318
+563	13308237 280 20576 91454 0.423929021395 1.860652103334 10 2 6 38 168
+564	13308517 410 20576 91454 0.423929021395 1.860652103334 10 0.423929021395 1.860652103334 10.450723985586 12.727871578685
+565	13308927 410 20576 91454 0.423929021395 1.860652103334 10 0.423764171395 1.860586163334 10.449471125586 12.725266589825
+566	13309337 364 21563 95505 0.443604206668 1.950056162365 13 2 7 53 253
+567	13309701 533 21563 95505 0.443604206668 1.950056162365 13 0.443604206668 1.950056162365 16.327111321411 23.431288043315
+568	13310234 533 21563 95505 0.443604206668 1.950056162365 13 0.443472326668 1.949891312365 16.325363911411 23.42714705875
+569	13310767 196 35420 87537 0.722685133334 1.777403243335 7 2 5 25 97
+570	13310963 287 35420 87537 0.722685133334 1.777403243335 7 0.722685133334 1.777403243335 9.247982024735 13.020792648765
+571	13311250 287 35420 87537 0.722685133334 1.777403243335 7 0.722619193334 1.777238393335 9.247157774735 13.01853550998
+
