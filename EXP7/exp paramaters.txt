@@ -1,0 +1,8 @@
+datarate = 15Mbps;
+packetCapacity = 500;
+batteryEnergy = 5000;
+ISLdelay = 0.00003297;
+dre = 0.00008;
+alpha = 0.5;
+recPower = 0.4;
+transPower = 0.7;
